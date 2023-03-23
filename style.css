@@ -195,6 +195,7 @@
     position: relative;
     left: 50px;
 }
+
 .fa-solid {
     color: white;
     margin-right: 10px;
@@ -203,18 +204,15 @@
 .icon1 i {
     position: absolute;
     color: #aad8eb;
-  
-
 }
 
 .icon3 {
     display: flex;
     margin-bottom: 10px;
-    
 }
 
-.icon3  i{
-    color: #070fa0; 
+.icon3 i {
+    color: #070fa0;
     margin-right: 15px;
 }
 
@@ -222,7 +220,7 @@
     margin-bottom: 15px;
 }
 
-.info1  {
+.info1 {
     text-transform: uppercase;
     font-weight: bold;
     list-style: none;
@@ -243,6 +241,4 @@
 .icon1 i {
     position: absolute;
     color: #aad8eb;
-  
-
 }
